@@ -1,0 +1,72 @@
+body {
+  margin:0;
+}
+.padre {
+  font-family: Book Antiqua;
+  width: 28% !important;
+  height: 70vh !important;
+  margin-top: 5% !important;
+  background-color: #fff !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  border-radius: 8% !important;
+  text-align: center !important;
+  font-size: 25px !important;
+}
+.pin {
+  background-color: rgb(7, 7, 7);
+  color: #fff;
+}
+
+h3 {
+  background:gray;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px; 
+  color: white;
+  text-align: center;
+}
+#servicio, #prop, #personas {
+  font-size: 20px;
+  width: 250px;
+
+}
+button {
+  width: 115px;
+  height: 35px;
+  margin-top: 25px;
+  background:gray;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+button:hover {
+  border: 1px solid gray;
+  background-color: gray;
+
+}
+
+button:active {
+  position:relative;
+  top:1px;
+  border-radius: 5px;
+}
+
+#calcular {
+  float: 	right;
+  margin-right: 	15px;
+}
+#resultado {
+  margin: 5px;
+  font-size: 30px;
+  font-weight: 600;
+  height: 35px;	
+}
+.otro {
+  color: black;
+  background-color: white;
+  border-radius: 16px;
+}
